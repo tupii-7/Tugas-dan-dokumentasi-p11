@@ -64,4 +64,6 @@ resources
             └── index.blade.php
 
 routes
-└── web.php
+└── web.php'''
+
+#Screenshot
