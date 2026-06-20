@@ -1,3 +1,8 @@
+| Keterangan | Data |
+|------------|------|
+| Nama | [Said Fachri Ariza] |
+| NIM | [60324023] |
+
 # Ringkasan Implementasi
 
 ## Modul Dashboard
